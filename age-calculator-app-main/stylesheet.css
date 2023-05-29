@@ -1,0 +1,29 @@
+body {
+    background-color: #dbdbdb;
+}
+
+.main-container {
+    margin: 5rem;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 5rem;
+    background-color: #FFFFFF;
+    max-width: 34rem;
+}
+
+.birthday-form {
+    color: #6F6F6F;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    display: flex;
+    justify-content: space-between;
+}
+
+.birthday-form > div {
+    display: flex;
+    flex-flow: column;
+}
+
+.birthday-form > input {
+    color: black;
+}
+
